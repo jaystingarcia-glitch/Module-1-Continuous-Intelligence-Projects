@@ -54,7 +54,7 @@ anomaly detection, monitoring, and system assessment.
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/denisecase/cintel-01-getting-started)
+- [GitHub Repository](https://github.com/jaystingarcia-glitch/Module-1-Continuous-Intelligence-Projects)
 - [Example Pipeline](https://github.com/denisecase/cintel-01-getting-started/blob/main/src/cintel/pipeline.py)
 
 ## Project Resources

@@ -128,6 +128,7 @@ def main() -> None:
     LOG.info("Hello World from Dr. Case!")
 
     LOG.info("========================")
+    LOG.info("What's next?")
     LOG.info("Pipeline executed successfully!")
     LOG.info("========================")
     LOG.info("END main()")

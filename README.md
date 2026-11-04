@@ -83,7 +83,7 @@ uv run pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/cintel-01-getting-started/)
+The [hosted documentation site](https://github.com/jaystingarcia-glitch/Module-1-Continuous-Intelligence-Projects)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,
@@ -182,7 +182,7 @@ testing, documentation, and code quality.
 
 ## Links
 
-- [Hosted Documentation](https://denisecase.github.io/cintel-01-getting-started/)
+- [Hosted Documentation](https://github.com/jaystingarcia-glitch/Module-1-Continuous-Intelligence-Projects)
 - [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
 - [License](LICENSE)
